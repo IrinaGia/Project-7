@@ -98,7 +98,7 @@ namespace Project__4
                 tryNow++;
 
                 Console.WriteLine("Correct guesses: " + string.Join(" ", replacedWord));
-                Console.WriteLine("Wrong guesses:" + string.Join(" ", wrongGuesses));
+                //Console.WriteLine("Wrong guesses:" + string.Join(" ", wrongGuesses));
                 Console.WriteLine("All inserted letters: " + string.Join(",", allLetters));
 
 
